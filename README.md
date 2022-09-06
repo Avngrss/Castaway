@@ -1,4 +1,4 @@
-## Castaway [id]: https://avngrss.github.io/Castaway/ Pages
+## Castaway : https://avngrss.github.io/Castaway/ Pages
 - Лендинг
 - Использование БЭМ
 - Использование SCSS
