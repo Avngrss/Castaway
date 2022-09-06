@@ -1,4 +1,4 @@
-## Castaway [Castaway]: avngrss.github.io/castaway/
+## Castaway [id]: http://example.com/ "Необязательная подсказка"
 - Лендинг
 - Использование БЭМ
 - Использование SCSS
